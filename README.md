@@ -45,8 +45,6 @@ mostrado en campo TEY, haciendo uso del resto de mediciones de sensores.
 En el siguiente enlace puede obtenerse más información sobre los atributos y la variable
 de salida:
 https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set
-Los datos que serán utilizados para la realización de la práctica podrán descargarse en la
-sección Práctica 1 en Aula Global.
 
 ## 2.- Trabajo a realizar
 ### 2.1.- Preparación de datos
